@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  MyMap
 //
-//  Created by Swift-Beginners on 2020/11/05.
+//  Created by 小平裕 on 2022/07/25.
 //
 
 import SwiftUI
